@@ -2,13 +2,15 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
+  
   "keywords": [
     "saima"
   ],
   "license": "ISC",
   "author": "Mohibullah",
-  "type": "commonjs",
+  "type": "module",
   "main": "server.js",
+  
   "scripts": {
     "start": "node server.js"
   },
