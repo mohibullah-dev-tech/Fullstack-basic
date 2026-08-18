@@ -2,7 +2,6 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  
   "keywords": [
     "saima"
   ],
@@ -10,11 +9,11 @@
   "author": "Mohibullah",
   "type": "module",
   "main": "server.js",
-  
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
+    "cors": "^2.8.6",
     "rxpress": "^0.3.0"
   }
 }
